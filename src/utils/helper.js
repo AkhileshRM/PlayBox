@@ -220,5 +220,5 @@ export const findPrime = (num) => {
 };
 
 function hello(){
-  return "hello"
+  return "hi"
 }
