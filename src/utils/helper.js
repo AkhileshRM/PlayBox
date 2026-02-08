@@ -218,7 +218,3 @@ export const findPrime = (num) => {
   }
   return primes[num - 1];
 };
-
-function hello(){
-  return "hi"
-}
